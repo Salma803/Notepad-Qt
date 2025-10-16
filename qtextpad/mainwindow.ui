@@ -90,7 +90,6 @@
      <string>Préférences</string>
     </property>
     <addaction name="actionR_gler_la_police"/>
-    <addaction name="actionAfficher_les_num_ros_de_lignes"/>
    </widget>
    <addaction name="menuFichier"/>
    <addaction name="menuEdition"/>

@@ -22,3 +22,6 @@ HEADERS  += mainwindow.h \
 
 FORMS    += mainwindow.ui \
     replacedialog.ui
+
+DISTFILES += \
+    ../../../Downloads/qtextpad/qtextpad/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/debug/README.md
